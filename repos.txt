@@ -1,0 +1,4 @@
+https://github.com/AsmrS4/hits-food-auth-service.git
+https://github.com/rkadl77/FoodService.git
+https://github.com/egorycheva28/delivery-website.git
+https://github.com/Viroos973/delivery-website-operator.git
