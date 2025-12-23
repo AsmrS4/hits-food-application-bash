@@ -1,4 +1,7 @@
 ## Для запуска проекта необходимо склонировать репозиторий и запустить из этой же директории файл:
     init-project.sh
 
-## Для работы с feature flags необходимо создать файл .env в корне проекта hits-food-auth-service и переопределить значения, указанные в docker-compose.yaml для environment переменных
+## Для работы с feature flags необходимо:
+    1) создать файл .env в корне проекта hits-food-auth-service
+    2) переопределить значения, указанные в docker-compose.yaml для environment переменных
+
